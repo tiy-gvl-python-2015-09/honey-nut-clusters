@@ -1,0 +1,6 @@
+#!/Users/ZSeaborn/Desktop/Homework/honey-nut-clusters/.direnv/python-3.5.0/bin/python3.5
+
+from nbconvert.nbconvertapp import main
+
+if __name__ == '__main__':
+    main()
